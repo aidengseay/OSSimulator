@@ -1,0 +1,4 @@
+make -f prog3_mf clean (gets rid of exe)
+make -f prog3_mf (makes executable)
+
+only works in linux!

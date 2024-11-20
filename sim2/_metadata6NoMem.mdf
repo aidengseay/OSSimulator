@@ -1,0 +1,107 @@
+Start Program Meta-Data Code:
+sys start
+app start, 0
+dev in, hard drive, 30
+dev out, video signal, 63
+dev out, sound signal, 35
+dev out, video signal, 49
+dev out, usb, 14
+dev out, usb, 18
+cpu process, 9
+dev out, hard drive, 27
+cpu process, 10
+dev out, video signal, 42
+dev out, hard drive, 30
+dev in, video signal, 70
+dev out, video signal, 49
+cpu process, 5
+cpu process, 10
+app end
+app start, 0
+dev in, video signal, 35
+dev out, video signal, 42
+dev out, monitor, 60
+dev in, video signal, 42
+dev out, hard drive, 30
+dev out, serial, 40
+dev out, video signal, 70
+dev out, hard drive, 30
+dev out, monitor, 90
+dev out, sound signal, 35
+cpu process, 7
+dev in, video signal, 56
+dev out, monitor, 100
+dev out, usb, 10
+dev in, serial, 40
+app end
+app start, 0
+dev in, sound signal, 30
+dev out, sound signal, 30
+dev out, usb, 14
+dev out, video signal, 42
+dev out, usb, 14
+dev out, video signal, 49
+cpu process, 5
+dev out, monitor, 80
+cpu process, 7
+dev out, usb, 14
+dev out, hard drive, 27
+dev in, serial, 40
+dev in, keyboard, 50
+dev in, hard drive, 27
+dev out, sound signal, 45
+app end
+app start, 0
+dev in, keyboard, 80
+dev out, hard drive, 27
+dev out, hard drive, 27
+dev in, video signal, 56
+dev out, sound signal, 40
+dev out, hard drive, 15
+dev out, video signal, 49
+dev in, sound signal, 25
+dev out, sound signal, 30
+dev out, monitor, 80
+dev in, hard drive, 27
+cpu process, 7
+cpu process, 9
+dev in, hard drive, 15
+dev out, hard drive, 30
+app end
+app start, 0
+dev in, keyboard, 90
+dev out, monitor, 90
+dev out, video signal, 56
+dev out, hard drive, 24
+cpu process, 7
+dev out, monitor, 70
+dev out, hard drive, 21
+dev in, usb, 14
+dev in, serial, 24
+cpu process, 6
+dev out, hard drive, 27
+cpu process, 5
+cpu process, 10
+dev out, monitor, 60
+dev in, serial, 20
+app end
+app start, 0
+dev in, keyboard, 90
+dev in, video signal, 35
+dev out, monitor, 60
+cpu process, 5
+dev in, video signal, 49
+dev out, usb, 14
+dev in, video signal, 42
+dev in, serial, 20
+dev out, hard drive, 18
+cpu process, 10
+dev in, video signal, 35
+dev out, video signal, 70
+dev out, video signal, 42
+dev out, hard drive, 30
+dev in, hard drive, 15
+app end
+sys end
+End Program Meta-Data Code.
+
